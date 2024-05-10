@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    padding: 10px;
+  }
+  
+  espaco {
+    padding-bottom: 10px;
+  }
+  
+  button {
+  
+    background-color: #fed7de;
+    color: #000000;
+    border: double;
+  }
+  h4{
+    color: #000000;
+  }
+  input{
+    background-color: #fef6f8;
+    color: #000000;
+    border: double;
+  }
