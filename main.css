@@ -5,6 +5,9 @@ html {
   
   body {
     padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   espaco {
@@ -25,3 +28,7 @@ html {
     color: #000000;
     border: double;
   }
+  h3{
+    color:pink;
+  }
+
